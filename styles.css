@@ -1,0 +1,26 @@
+.myBody
+{
+    text-align: center;
+}
+.myHead
+{
+    font-size: large;
+}
+.myMain
+{
+    font-size: medium;
+}
+.myFooter
+{
+    font-size: small;
+    text-align: center;
+    background-color: lightblue;
+}
+h5
+{
+    color: green;
+}
+p
+{
+    font-family: verdana;
+}
